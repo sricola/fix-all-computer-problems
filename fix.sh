@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Fixing all problems ..."
-shutdown -r now
+shutdown -h now
